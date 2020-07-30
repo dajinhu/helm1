@@ -3,12 +3,12 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-07-30T14:03:43.018587755-07:00"
+    created: "2020-07-30T14:18:27.799142832-07:00"
     description: A Helm chart for Kubernetes
     digest: c2ce6ebd5ea2b7f330484592e52ae23ce5209bb736d9fc929b825b07eac1960b
     name: my-app
     type: application
     urls:
-    - https://github.com/dajinhu/helm1/my-app-0.1.0.tgz
+    - https://github.com/dajinhu/helm1/tree/gh-pages/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-30T14:03:43.017591977-07:00"
+generated: "2020-07-30T14:18:27.797428995-07:00"
